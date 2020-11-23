@@ -48,6 +48,7 @@ def clean_data(data):
     return data
 
 
+
 if __name__ == '__main__':
     # For introspections purpose to quickly get this functions on ipython
     import cooltoolbox
