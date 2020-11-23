@@ -2,6 +2,8 @@
 import os
 import cooltoolbox
 import pandas as pd
+import seaborn as sns
+import matplotlib.pyplot as plt
 import pytest
 
 from cooltoolbox.dataviz import showme
